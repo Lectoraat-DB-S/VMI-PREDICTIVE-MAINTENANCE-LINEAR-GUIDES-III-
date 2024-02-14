@@ -2,6 +2,7 @@
 Namen:
 	Nathan Visscher
 	Tim van Urk
+ 	Rutger Falkmann
 
 codering
 Tijdens het opleveren van code zien we graag dat er een README bestand wordt meegeleverd, dit maakt het gemakkelijker voor een ander om met jouw code verder te gaan of er gebruik van te maken.
